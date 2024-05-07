@@ -15,21 +15,11 @@
 
 ---
 
-## Installation
-
 | English | Español |
 |---------|---------|
 | Clone this repository:  `git clone https://github.com/your_username/currency-converter.git` | Clona este repositorio: `git clone https://github.com/tu_usuario/conversor-de-monedas.git` |
 | Navigate to the project directory: `cd currency-converter` | Navega hasta el directorio del proyecto: `cd conversor-de-monedas` |
 | Open the `index.html` file in your web browser. | Abre el archivo `index.html` en tu navegador web. |
-
-----
-
-| Usage | Uso |
-|---------|---------|
-| Select the source and target currencies.  | Selecciona las monedas de origen y destino. |
-| Enter the amount to convert. | Ingresa la cantidad a convertir. |
-| Click the convert button to see the result. | Haz clic en el botón de convertir para ver el resultado. |
 
 ---
 
@@ -42,4 +32,11 @@
 | Push the branch: `git push origin my-contribution` | Haz push a la rama: `git push origin mi-contribucion` |
 | Create a new Pull Request. | Crea un nuevo Pull Request. |
 
+----
+
+| Usage | Uso |
+|---------|---------|
+| Select the source and target currencies.  | Selecciona las monedas de origen y destino. |
+| Enter the amount to convert. | Ingresa la cantidad a convertir. |
+| Click the convert button to see the result. | Haz clic en el botón de convertir para ver el resultado. |
 
