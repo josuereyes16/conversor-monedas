@@ -1,7 +1,7 @@
 
 ## Currency Converter / Convertidor de moneda → [josuereyes16](https://github.com/josuereyes16)
 
-| English | Español |
+| Description | Descripcion |
 |---------|---------|
 | This is a currency converter project developed by Antonio Reyes. It allows users to convert between different currencies quickly and easily, using real-time exchange rates. | Este es un proyecto de conversor de monedas desarrollado por Antonio Reyes. Permite a los usuarios convertir entre diferentes monedas de forma rápida y sencilla, utilizando tasas de cambio en tiempo real. |
 
@@ -15,7 +15,7 @@
 
 ---
 
-| English | Español |
+| Installation | Instalación |
 |---------|---------|
 | Clone this repository:  `git clone https://github.com/your_username/currency-converter.git` | Clona este repositorio: `git clone https://github.com/tu_usuario/conversor-de-monedas.git` |
 | Navigate to the project directory: `cd currency-converter` | Navega hasta el directorio del proyecto: `cd conversor-de-monedas` |
